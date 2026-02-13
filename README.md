@@ -4,7 +4,7 @@
 <!-- 🌊 Dynamic Wave Header -->
 <!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=header&text=Surya%20Hariharan&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bioinformatics%20%7C%20NLP%20%7C%20RAG%20Systems%20%7C%20Secure%20AI&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=header&text=Surya%20HA&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bioinformatics%20%7C%20NLP%20%7C%20RAG%20Systems%20%7C%20Secure%20AI&descAlignY=55&descSize=16"/>
 
 <br/>
 
