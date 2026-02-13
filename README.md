@@ -20,10 +20,10 @@
 <!-- ✨ Typing Animation -->
 <!-- ===================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+I'm+Surya+HA+%F0%9F%91%8B;Bioinformatics+%7C+NLP+%7C+RAG+Systems+%F0%9F%A7%AC;Cybersecurity+%2B+Automation+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+Building+AI+Products+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+I'm+Surya+HA+%F0%9F%91%8B;Bioinformatics+%7C+NLP+%7C+RAG+Systems+%F0%9F%A7%AC;Cybersecurity+%2B+Automation+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+Building+AI+Products+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
-
+<br>
 <!-- ===================================================== -->
 <!-- 🔗 Social Buttons -->
 <!-- ===================================================== -->
