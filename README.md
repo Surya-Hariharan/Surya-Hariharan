@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
-     panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
+     panel; generation scripts are kept locally, not in this repo -->
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+     (regenerated locally and committed manually) -->
 
 <img src="./contrib-heatmap.svg" width="860" alt="Surya's GitHub contribution graph — auto-refreshed daily" />
 
@@ -14,8 +13,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./surya-ascii.svg" width="400" alt="Surya Hariharan — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="460" alt="Surya Hariharan — experience, stack, highlights" /></td>
+<td valign="top"><img src="./surya-ascii.svg" height="470" alt="Surya Hariharan — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" height="470" alt="Surya Hariharan — experience, stack, highlights" /></td>
 </tr>
 </table>
 
