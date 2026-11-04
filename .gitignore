@@ -64,3 +64,8 @@ Thumbs.db
 *.jpg
 *.jpeg
 
+
+# Re-include only what the daily heatmap workflow needs
+!scripts/fetch_contributions.py
+!scripts/render_heatmap_svg.py
+!scripts/requirements.txt

@@ -3,8 +3,8 @@
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
      panel; generation scripts are kept locally, not in this repo -->
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated locally and committed manually) -->
+<!-- animated contribution graph: real data, refreshed daily by
+     .github/workflows/update-heatmap.yml -->
 
 <img src="./contrib-heatmap.svg" width="860" alt="Surya's GitHub contribution graph — auto-refreshed daily" />
 
@@ -22,7 +22,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya_Hariharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-ha-9a0a5a291/)
-[![GitHub](https://img.shields.io/badge/GitHub-Surya_Hariharan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-Hariharan)
 [![Instagram](https://img.shields.io/badge/Instagram-__surya__ha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_surya_ha)
 [![Email](https://img.shields.io/badge/Email-suryahariharan2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryahariharan2006@gmail.com)
 
